@@ -1,6 +1,6 @@
 pkgbase = ruby-build-git
 	pkgdesc = Compile and install Ruby
-	pkgver = v20211124
+	pkgver = 20220324.r0.ga5ca3e4
 	pkgrel = 1
 	url = https://github.com/rbenv/ruby-build
 	arch = any
